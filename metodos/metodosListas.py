@@ -29,7 +29,7 @@ lista2.sort()
 #ordenar de forma desc(mayor a menor) 
 lista2.sort(reverse=True)
 #invierte cualquier lista independientemente si esta ordenada o no
-lista2.reverse
+lista2.reverse()
 
 
 print(lista2)
