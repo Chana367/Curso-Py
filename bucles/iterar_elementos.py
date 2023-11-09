@@ -1,5 +1,8 @@
 animales = ["peces", "perros","gatos", "pajaros"]
 cantidades = [2, 1, 1, 2]
+#sliding ej en cadena
+numeros = "0123456789"
+print(numeros[:6])
 
 for animal in animales:
   print(animal)
